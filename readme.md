@@ -4,9 +4,7 @@ Responsive Design Research
 What be this ?
 ------------------
 
-This is my research project for studying responsive design .
-Basically i will research responsive design approaches in different sections or pages
-Just follow the instructions and you will be up and running 
+This is my learning project were i will be esperimenting with different techniques and tech .
 
 ! I will improve the project as i go
 
@@ -58,7 +56,7 @@ Start
 ------------
 
 1. Clone project 
-2. Install gulp globaly
+2. Install gulp globally
 3. Run the commands bellow in order
 
 

@@ -2,165 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aded8b4-6d06-4505-8640-c37bbe0ac04c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/alexandru_dragutescu.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/research-proj.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/robots.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/images/hero/hero-image.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/images/hero/hero-image@2x.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/images/ignasiPattern.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/images/logo-color.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/bootstrap/alert.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/bootstrap/alert.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/bootstrap/button.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/bootstrap/button.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/bootstrap/carousel.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/bootstrap/carousel.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/bootstrap/collapse.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/bootstrap/collapse.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/bootstrap/dropdown.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/bootstrap/dropdown.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/bootstrap/modal.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/bootstrap/modal.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/bootstrap/popover.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/bootstrap/popover.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/bootstrap/scrollspy.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/bootstrap/scrollspy.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/bootstrap/tab.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/bootstrap/tab.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/bootstrap/tooltip.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/bootstrap/tooltip.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/bootstrap/util.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/bootstrap/util.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/jquery-ui.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/jquery.cycle2.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scripts/plugins/jquery.min.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/base/_global.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/base/_helper.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/base/_mixins.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/base/_normalize.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/base/_variables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/general/_alertBox.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/general/_buttons.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/general/_forms.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/general/_headings.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/general/_links.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/general/_rangeSliders.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/general/_socialLinks.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/pages/_homepage.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/stylesheet.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/templates/_footer.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/templates/_header.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/templates/_section1.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/templates/header/_hero.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/templates/header/_logo.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/templates/header/_navigation.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_alert.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_badge.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_breadcrumb.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_button-group.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_buttons.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_card.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_carousel.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_close.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_code.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_custom-forms.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_dropdown.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_forms.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_functions.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_grid.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_images.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_input-group.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_jumbotron.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_list-group.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_media.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_mixins.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_modal.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_nav.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_navbar.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_pagination.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_popover.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_print.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_progress.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_reboot.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_tables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_tooltip.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_transitions.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_type.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_utilities.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/_variables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/bootstrap-grid.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/bootstrap-reboot.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/bootstrap.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_alert.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_background-variant.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_badge.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_border-radius.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_box-shadow.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_breakpoints.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_buttons.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_clearfix.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_float.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_forms.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_gradients.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_grid-framework.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_grid.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_hover.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_image.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_list-group.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_lists.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_nav-divider.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_navbar-align.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_pagination.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_reset-text.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_resize.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_screen-reader.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_size.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_table-row.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_text-emphasis.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_text-hide.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_text-truncate.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_transition.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/mixins/_visibility.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/utilities/_align.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/utilities/_background.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/utilities/_borders.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/utilities/_clearfix.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/utilities/_display.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/utilities/_embed.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/utilities/_flex.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/utilities/_float.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/utilities/_position.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/utilities/_screenreaders.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/utilities/_sizing.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/utilities/_spacing.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/utilities/_text.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/scss/vendor/utilities/_visibility.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/styles/jquery-ui.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/styles/jquery-ui.structure.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/styles/jquery-ui.theme.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/view/pages/404.hbs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/view/pages/index.hbs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/view/templates/base.hbs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/view/templates/components/buttons/login.hbs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/view/templates/components/general/alertBox.hbs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/view/templates/components/general/socialLinks.hbs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/view/templates/components/header/logo.hbs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/view/templates/components/header/navigation.hbs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/view/templates/components/sections/articleSection.hbs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/view/templates/content.hbs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/view/templates/footer.hbs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/view/templates/header.hbs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/view/templates/mobileNavigation.hbs" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/scss/templates/header/_navigation.scss" afterPath="$PROJECT_DIR$/src/scss/templates/header/_navigation.scss" />
+      <change beforePath="$PROJECT_DIR$/src/view/pages/index.hbs" afterPath="$PROJECT_DIR$/src/view/pages/index.hbs" />
+      <change beforePath="$PROJECT_DIR$/src/view/templates/components/header/logo.hbs" afterPath="$PROJECT_DIR$/src/view/templates/components/header/logo.hbs" />
+      <change beforePath="$PROJECT_DIR$/src/view/templates/footer.hbs" afterPath="$PROJECT_DIR$/src/view/templates/footer.hbs" />
+      <change beforePath="$PROJECT_DIR$/src/view/templates/header.hbs" afterPath="$PROJECT_DIR$/src/view/templates/header.hbs" />
+      <change beforePath="$PROJECT_DIR$/src/view/templates/mobileNavigation.hbs" afterPath="$PROJECT_DIR$/src/view/templates/mobileNavigation.hbs" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -177,8 +28,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="135">
+              <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -192,6 +43,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/src/view/templates/header.hbs" />
+        <option value="$PROJECT_DIR$/src/view/templates/components/header/logo.hbs" />
+        <option value="$PROJECT_DIR$/src/view/templates/footer.hbs" />
+        <option value="$PROJECT_DIR$/src/view/templates/mobileNavigation.hbs" />
+        <option value="$PROJECT_DIR$/src/scss/templates/header/_navigation.scss" />
+        <option value="$PROJECT_DIR$/src/view/pages/index.hbs" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -245,6 +104,60 @@
               <item name="learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="header" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -283,12 +196,12 @@
       <option name="presentableId" value="Default" />
       <updated>1513257239286</updated>
       <workItem from="1513257240553" duration="710000" />
-      <workItem from="1513257983789" duration="243000" />
+      <workItem from="1513257983789" duration="1440000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="953000" />
+    <option name="totallyTimeSpent" value="2150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
@@ -299,11 +212,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -326,17 +239,125 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-720">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="282">
+            <caret line="97" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/templates/components/header/logo.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/templates/components/sections/articleSection.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/templates/mobileNavigation.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/templates/components/header/navigation.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/templates/header/_navigation.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/templates/base.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/templates/header.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/templates/footer.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/pages/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="20" column="37" lean-forward="false" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
+        <state relative-caret-position="-884">
           <caret line="56" column="19" lean-forward="false" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="135">
+          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding />
         </state>
       </provider>
