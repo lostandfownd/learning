@@ -14,7 +14,12 @@
   color: $color-white;
   border: 4px solid $color-white;
   font-size: 22px;
-
+  transition: all .2s ease-in-out;
+  
+  &:hover {
+    background: $color-white;
+    color: rgba(#000, .6);
+  }
   &--pill {
     border-radius: 50px;
   }

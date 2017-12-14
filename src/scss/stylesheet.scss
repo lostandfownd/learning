@@ -13,16 +13,16 @@
 //// General Imports
 @import 'general/buttons';
 @import 'general/headings';
-@import 'general/socialLinks';
-@import 'general/rangeSliders';
 @import 'general/forms';
 @import 'general/links';
-@import 'general/alertBox';
+@import 'general/tags';
 
 //// Templates Imports
 @import 'templates/header';
+@import 'templates/main';
 @import 'templates/footer';
-@import 'templates/section1';
+
+@import 'templates/projects';
 
 //// Template Partial Imports
 @import 'templates/header/logo';

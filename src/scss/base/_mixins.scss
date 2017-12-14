@@ -7,3 +7,9 @@
     background: darken($color, $percentage);
   }
 }
+
+@mixin media-query($size) {
+  @media screen and (max-width: $size) {
+    @content;
+  }
+}

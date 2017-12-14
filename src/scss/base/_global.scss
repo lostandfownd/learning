@@ -1,7 +1,6 @@
 /* =============================================
   Global section
  ============================================= */
-
 * {
   margin: 0;
   box-sizing: border-box;
@@ -14,20 +13,14 @@ body {
 
 html {
   height: 100%;
+  font-size: $base-font-size;
 }
 
 body {
+  display: flex;
+  flex-direction: column;
   height: 100%;
   font-family: 'Open Sans', sans-serif;
-  background-image: url('../images/ignasiPattern.png');
+  background-image: url('../images/memphis-colorful.png');
 }
 
-@include media-breakpoint-down(md) {
-  .mainNav {
-    display: none;
-  }
-
-  .mobileMenu-toggle {
-    display: block;
-  }
-}
