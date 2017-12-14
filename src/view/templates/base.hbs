@@ -1,0 +1,85 @@
+{{!-- layouts/base.hbs --}}
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>
+      {{#if title}}
+        {{title}}
+      {{else}}
+        Base Page Title
+      {{/if}}
+    </title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
+    {{!-- Default Fonts  --}}
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,700" rel="stylesheet">
+
+    {{!-- Default stylesheet  --}}
+    <script src="https://use.fontawesome.com/ea5fb80ba5.js"></script>
+    <link rel="stylesheet" href="styles/vendor/bootstrap-grid.min.css">
+    <link rel="stylesheet" href="styles/vendor/bootstrap-reboot.min.css">
+    <link rel="stylesheet" href="styles/vendor/bootstrap.min.css">
+    <link rel="stylesheet" href="styles/vendor/jquery-ui.min.css">
+    <link rel="stylesheet" href="styles/vendor/jquery-ui.theme.min.css">
+    <link rel="stylesheet" href="styles/vendor/jquery-ui.structure.min.css">
+    <link rel="stylesheet" href="styles/stylesheet.min.css">
+
+
+    {{!-- Custom styles block --}}
+    {{#> styles-block }}{{/styles-block}}
+
+    {{#> head-block}}
+      {{!-- Custom <head> content per page could be added. --}}
+    {{/head-block}}
+  </head>
+  <body class="{{pageClass}}">
+    {{#> mobileMenu-block}}
+      {{!-- Mobile Menu contnet --}}
+    {{/mobileMenu-block}}
+
+    {{#> header-block}}
+      {{!-- Header content --}}
+    {{/header-block}}
+
+    <main class="mainContent" role="main">
+      {{#> content-block}}
+      {{/content-block}}
+    </main>
+
+    {{#> footer-block
+        modifier="has-tealBackground"}}
+      {{!--
+      The `includes/footer` partial is the default content,
+      but can be overridden.
+      --}}
+
+      {{> footer }}
+    {{/footer-block}}
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+    <script>
+        (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+        function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+        e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+        e.src='//www.google-analytics.com/analytics.js';
+        r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+        ga('create','UA-XXXXX-X');ga('send','pageview');
+    </script>
+
+
+
+    {{!-- Main compressed js file --}}
+    <script src="scripts/plugins/jquery.min.js"></script>
+    <script src="scripts/plugins/jquery-ui.min.js"></script>
+    <script src="scripts/plugins/bootstrap.min.js"></script>
+    <script src="scripts/main.min.js"></script>
+
+    {{!-- Custom scripts per page can be added. --}}
+    {{#> scripts-block}}{{/scripts-block}}
+  </body>
+
+</html>

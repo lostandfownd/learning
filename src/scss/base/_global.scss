@@ -1,0 +1,33 @@
+/* =============================================
+  Global section
+ ============================================= */
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  font-family: 'Open Sans', sans-serif;
+  background-image: url('../images/ignasiPattern.png');
+}
+
+@include media-breakpoint-down(md) {
+  .mainNav {
+    display: none;
+  }
+
+  .mobileMenu-toggle {
+    display: block;
+  }
+}

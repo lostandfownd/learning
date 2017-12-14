@@ -1,0 +1,34 @@
+//// Omniconvert Pricing Project
+
+//// Vendor imports
+@import 'vendor/bootstrap.scss';
+
+//// Global Imports
+@import 'base/variables';
+@import 'base/mixins';
+@import 'base/normalize';
+@import 'base/global';
+@import 'base/helper';
+
+//// General Imports
+@import 'general/buttons';
+@import 'general/headings';
+@import 'general/socialLinks';
+@import 'general/rangeSliders';
+@import 'general/forms';
+@import 'general/links';
+@import 'general/alertBox';
+
+//// Templates Imports
+@import 'templates/header';
+@import 'templates/footer';
+@import 'templates/section1';
+
+//// Template Partial Imports
+@import 'templates/header/logo';
+@import 'templates/header/navigation';
+@import 'templates/header/hero';
+
+//// Page Imports
+@import 'pages/homepage';
+

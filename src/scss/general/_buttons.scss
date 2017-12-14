@@ -1,0 +1,22 @@
+/* =============================================
+  Navigation
+  * Use the bootstrap buttons with modifiers
+ ============================================= */
+
+
+// Common button styles
+.btn {
+  display: inline-block;
+  width: 100%;
+  max-width: 200px;
+  padding: 15px 20px;
+  background: none;
+  color: $color-white;
+  border: 4px solid $color-white;
+  font-size: 22px;
+
+  &--pill {
+    border-radius: 50px;
+  }
+}
+

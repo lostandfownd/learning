@@ -1,0 +1,109 @@
+  ////////// Hero section sliders 
+  //TODO: Move them to scss partial
+.businessType-sliders {
+    margin-top: 60px;
+    margin-left: -15px;
+    margin-right: -15px;
+
+    .slider-container {
+      display: inline-block;
+      margin-right: 6%;
+      &.col-md-6 { max-width: 47%; }
+      
+      &:last-child { margin-right: 0; }
+
+      &.is-disabled {
+        .slider-title,
+        .slider-range {
+          color: #BDC6D4;
+        }
+
+        .ui-slider .ui-slider-handle {
+          background: #BDC6D4;
+        }
+
+        .slider-innerContainer {
+          border: 1px solid #D9E3EF;
+        }
+
+        .ui-slider-range {
+          background: #EDF3FF;
+        }
+      }
+    }
+
+    @include media-breakpoint-down(sm) { 
+      .slider-container {
+        width: 100%;
+        margin-bottom: 40px;
+        &:last-child { margin-bottom: 0; }
+
+        &.col-md-6 {
+          max-width: 100%;
+        }
+      }
+    }
+
+    .slider-innerContainer {
+      padding: 20px 40px;
+      border: 1px solid #18A5FF;
+      border-radius: 4px;
+    }
+
+    .slider-title,
+    .slider-range {
+      color: #5F7088;
+      font-size: 15px;
+      font-weight: 600;
+      text-align: center;
+    }
+
+    .slider-title {
+      margin-bottom: 20px;
+    }
+
+    .slider-range {
+      margin-top: 20px;
+    }
+
+    .ui-widget.ui-widget-content {
+      height: 7px;
+      border: none;
+      background: #EDF3FF;
+      border-radius: 50px;
+    }
+
+    .ui-slider .ui-slider-handle {
+      top: -12px;
+      margin-left: -15px;
+      width: 32px;
+      height: 32px;
+      background: #8796AB;
+      border-radius: 50%;
+      border: none;
+      cursor: pointer;
+
+      &:before {
+        content: "";
+        display: block;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        right: 0;
+        left: 0;
+        margin: 0 auto;
+        width: 15px;
+        height: 15px;
+        background-image: url('../images/sliderIcon.svg');
+        background-repeat: no-repeat;
+      }
+    }
+
+    .ui-slider-range {
+      background: #18A5FF;
+      border-top-left-radius: 50px;
+      border-bottom-left-radius: 50px;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+  }

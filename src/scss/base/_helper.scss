@@ -1,0 +1,39 @@
+/* =============================================
+  Heleper Classes: General Usage
+ =============================================  */
+
+.textCenter {
+  text-align: center;
+}
+
+.is-visible {
+	display: block;
+}
+
+.is-hidden { 
+	display: none; 
+}
+
+.is-regular {
+  font-weight: normal;
+}
+
+.is-bold {
+  font-weight: bold;
+}
+
+.has-whiteBackground {
+  background: #fff;
+}
+
+.has-greyBackground {
+  background: #fafcfd;
+}
+
+.has-blueBackground {
+  background: #67C4FF;
+}
+
+.has-tealBackground {
+  background: #05212b;
+}

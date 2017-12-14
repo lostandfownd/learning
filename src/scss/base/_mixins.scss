@@ -1,0 +1,9 @@
+//////////  All mixins go here
+////////////////////////////////////////
+
+// Mixin to help with the color change on hover
+@mixin buttonHoverBackground ($color, $percentage) {
+  &:hover {
+    background: darken($color, $percentage);
+  }
+}

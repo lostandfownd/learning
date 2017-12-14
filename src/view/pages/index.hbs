@@ -1,0 +1,24 @@
+{{!-- pages/pricing.hbs --}}
+
+{{#> base
+  title="Ibreatheart Homepage"
+  pageClass="homePage"
+}}
+
+    {{#*inline "mobileMenu-block"}}
+      {{> mobileNavigation }}
+    {{/inline}}
+
+    {{#*inline "header-block"}}
+      {{> header }}
+    {{/inline}}
+
+    {{#*inline "content-block"}}
+      {{> content }}
+    {{/inline}}
+
+  {{#* inline "scripts-block"}}
+    <script src="scripts/plugins/jquery.cycle2.min.js"></script>
+  {{/inline}}
+
+{{/base}}

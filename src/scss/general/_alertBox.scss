@@ -1,0 +1,53 @@
+.box-alert {
+  display: block;
+  position: relative;
+  max-width: 665px;
+  margin: 74px auto 0 auto;
+  padding: 30px 130px;
+  background: #fff;
+  border: 1px solid #D9E3EF;
+  border-radius: 4px;
+  text-align: center;
+
+  &:before,
+  &:after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-repeat: no-repeat;
+  }
+
+  &:before {
+    width: 71px;
+    height: 46px;
+    left: 30px;
+    background-size: 71px 46px;
+    background-image: url('../images/icon/bullhorn-icon.svg');
+  }
+
+  &:after {
+    width: 49px;
+    height: 34px;
+    right: 30px;
+    background-size: 49px 34px;
+    background-image: url('../images/icon/penBullet-icon.svg');
+  }
+  
+  .alert-title {
+    display: block;
+    margin-bottom: 15px;
+    color: #2FE583;
+    font-size: 17px;
+    font-weight: bold;
+  }
+
+  .alert-content {
+    color: #5F7088;
+    font-size: 15px;
+  }
+
+  &.is-hidden { display: none; }
+  &.is-visible { display: block; }
+}
